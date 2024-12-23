@@ -1,6 +1,6 @@
 {
     "pack":{
-        "pack_format": 48,
+        "pack_format": 10,
         "description": "Full Bright with one command: /trigger night_vision_command. By ThijquintNL."
     }
 }
