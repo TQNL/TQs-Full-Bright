@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:golden_carrot"
+      "item": "minecraft:golden_carrot"
     },
-    "title": "TQs Full Bright",
-    "description": "Full Bright with one command: /trigger night_vision_command",
+    "title": "night",
+    "description": "night",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": false
