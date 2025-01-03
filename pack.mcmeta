@@ -1,6 +1,10 @@
 {
-    "pack":{
-        "pack_format": 48,
-        "description": "Full Bright with one command: /trigger night_vision_command. By ThijquintNL."
+  "pack": {
+    "pack_format": 48,
+    "description": "Full Bright with one command: /trigger night_vision_command. By ThijquintNL.",
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 61
     }
+  }
 }
